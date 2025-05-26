@@ -1,0 +1,6 @@
+.cache
+.idea
+obj
+bin/
+openFrameworks-Info.plist
+compile_commands.json
